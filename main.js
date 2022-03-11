@@ -24,7 +24,7 @@ var posicaoY = parseInt(Math.random() * 334);
 var TECLA = {
 	UP: 38,
 	DN: 40,
-	D: 68
+	D: 32
 	}
 
 	jogo.pressionou = [];
